@@ -23,3 +23,8 @@ After establishing a connection between Power BI and the MySQL database named 'R
 table name made it more comprehensible. Then, I built relationships between all eight tables. Using various visualization tools such as maps, bar charts, pie charts, reports, slicers, and interactive buttons, 
 I created a dashboard. This dashboard provides valuable insights into the objectives, helping to identify areas for improvement and opportunities
 
+![image](https://github.com/Arbajmomin09/Raksha_Pipes_Business_Analyst/assets/161964500/bb272b95-1770-4eb6-bdc9-abad6bdd9b39)
+
+
+
+
