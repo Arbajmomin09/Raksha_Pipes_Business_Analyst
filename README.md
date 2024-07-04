@@ -1,4 +1,4 @@
-# Raksha_Pipes_Business_Analyst
+# Raksha_Pipes_Business_Analysis
 
 Objective:
 To provide a comprehensive overview of the business, we will analyze key parameters including revenue, top 10 valuable customers, shipping analysis, sales distribution by category, distribution of customers by 
